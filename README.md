@@ -18,8 +18,8 @@ The objective of this project is to apply **data preprocessing, exploratory data
 ---
 
 ## Dataset
-- **Dataset:** Nifty 50 Stock Market Data (2000–2021) https://www.kaggle.com/datasets/rohanrao/nifty50-stock-market-data
-- **Source:** Kaggle – Rohan Rao  
+- **Dataset:** Nifty 50 Stock Market Data (2000–2021) 
+- **Source:** Kaggle – Rohan Rao (https://www.kaggle.com/datasets/rohanrao/nifty50-stock-market-data)  
 - **Time Period:** 2000–2021
 - **Records:** ~20,057
 - **Companies Analyzed:** Reliance, TCS, Infosys, Tata Steel
