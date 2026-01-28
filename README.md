@@ -18,7 +18,7 @@ The objective of this project is to apply **data preprocessing, exploratory data
 ---
 
 ## Dataset
-- **Dataset:** Nifty 50 Stock Market Data (2000–2021)
+- **Dataset:** Nifty 50 Stock Market Data (2000–2021) (https://www.kaggle.com/datasets/rohanrao/nifty50-stock-market-data)
 - **Source:** Kaggle – Rohan Rao  
 - **Time Period:** 2000–2021
 - **Records:** ~20,057
